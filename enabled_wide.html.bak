@@ -113,7 +113,6 @@ _gaq.push(['_trackPageview']);
       </div>
     </div>
   </div>
-  <div></div>
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script src="jquery.lazyload.js?v=1.9.1"></script>
